@@ -1,0 +1,10 @@
+D:\KULIAH\Tugas\SISTER\ASISTEN\praktikum1\praktikum1\bin\Debug\praktikum1.exe.config
+D:\KULIAH\Tugas\SISTER\ASISTEN\praktikum1\praktikum1\bin\Debug\praktikum1.exe
+D:\KULIAH\Tugas\SISTER\ASISTEN\praktikum1\praktikum1\bin\Debug\praktikum1.pdb
+D:\KULIAH\Tugas\SISTER\ASISTEN\praktikum1\praktikum1\obj\Debug\praktikum1.csproj.AssemblyReference.cache
+D:\KULIAH\Tugas\SISTER\ASISTEN\praktikum1\praktikum1\obj\Debug\praktikum1.Form1.resources
+D:\KULIAH\Tugas\SISTER\ASISTEN\praktikum1\praktikum1\obj\Debug\praktikum1.Properties.Resources.resources
+D:\KULIAH\Tugas\SISTER\ASISTEN\praktikum1\praktikum1\obj\Debug\praktikum1.csproj.GenerateResource.cache
+D:\KULIAH\Tugas\SISTER\ASISTEN\praktikum1\praktikum1\obj\Debug\praktikum1.csproj.CoreCompileInputs.cache
+D:\KULIAH\Tugas\SISTER\ASISTEN\praktikum1\praktikum1\obj\Debug\praktikum1.exe
+D:\KULIAH\Tugas\SISTER\ASISTEN\praktikum1\praktikum1\obj\Debug\praktikum1.pdb
